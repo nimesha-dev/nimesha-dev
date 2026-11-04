@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+# Introduction
+
+# Career Interests
+
+## Network Security
+
+## Security Operations (SOC)
+
+## Digital Forensics
+
+## AI + Cybersecurity
+
+# Technical Skills
+
+# Featured Projects
+
+# Learning and Certifications
+
+# Contact Information
+
 <!--
 **nimesha-dev/nimesha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
